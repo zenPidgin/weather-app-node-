@@ -1,9 +1,3 @@
-/*
-JSON.parse(object) <- unbox
-JSON.stringify(object) <- minimize
-
-*/
-
 
 const express = require("express");
 const https = require("https");
